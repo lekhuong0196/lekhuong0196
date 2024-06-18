@@ -18,17 +18,19 @@ Email: lekhuong0196@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/letanxuankhuong/
 # **My Project:**
-https://github.com/lekhuong0196/SQL_Bicycle_Manufacturer
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&repo=SQL-Explore-Ecommerce-Dataset)](https://github.com/lekhuong0196/SQL-Explore-Ecommerce-Dataset)
 
-https://github.com/lekhuong0196/SQL-Explore-Ecommerce-Dataset
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&repo=SQL_Bicycle_Manufacturer)](https://github.com/lekhuong0196/SQL_Bicycle_Manufacturer)
 
-https://github.com/lekhuong0196/Sales-analysis-and-Expansion-strategy-of-Global-Superstore
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&repo=Sales-analysis-and-Expansion-strategy-of-Global-Superstore)](https://github.com/lekhuong0196/Sales-analysis-and-Expansion-strategy-of-Global-Superstore)
 
-https://github.com/lekhuong0196/Python_RFM_Analysis-Customer-segmentation
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&repo=Python_RFM_Analysis-Customer-segmentation)](https://github.com/lekhuong0196/Python_RFM_Analysis-Customer-segmentation)
 
-https://github.com/lekhuong0196/Cohort-Analysis-How-to-Analyze-User-Retention
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&repo=Cohort-Analysis-How-to-Analyze-User-Retention)](https://github.com/lekhuong0196/Cohort-Analysis-How-to-Analyze-User-Retention)
 
-https://github.com/lekhuong0196/ML-Predict-Churned-Users
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&repo=ML-Predict-Churned-Users)](https://github.com/lekhuong0196/ML-Predict-Churned-Users)
+
+
 # Goals:
 Continue to develop skills and knowledge in Data Analysis Data Science and Machine Learning
 
