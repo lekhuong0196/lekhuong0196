@@ -7,6 +7,7 @@
 - Visualize data to communicate insights effectively
 - Communicate data analysis results to stakeholders
 # **Technical Skills:**
+#4479A1
 - Programming Languages: Python (libraries like pandas, NumPy, scikit-learn)
 - Databases: SQL (MySQL, PostgreSQL)
 - Cloud Platforms: Familiarity with cloud platform AWS.
