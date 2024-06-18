@@ -1,5 +1,10 @@
 ## Hi there 👋
 **I am Le Tan Xuan Khuong, a Data Analyst passionate about using data to solve real-world problems and drive business value.**
+
+[LinkedIn](https://www.linkedin.com/in/letanxuankhuong/)
+[GitHub](https://github.com/lekhuong0196)
+[Facebook](https://www.facebook.com/lekhuong11/)
+[Email](mailto:lekhuong0196@gmail.com)
 # **Key Skills:**
 - Collect, clean, and process data from various sources
 - Perform exploratory data analysis to identify trends and patterns
@@ -7,35 +12,23 @@
 - Visualize data to communicate insights effectively
 - Communicate data analysis results to stakeholders
 # **Technical Skills:**
-#4479A1
-- Programming Languages: Python (libraries like pandas, NumPy, scikit-learn)
-- Databases: SQL (MySQL, PostgreSQL)
-- Cloud Platforms: Familiarity with cloud platform AWS.
-- Data Visualization: Power BI
-- Machine Learning: Experience with algorithms like linear regression, decision trees, random forests
-# **Contact:**
-Email: lekhuong0196@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/letanxuankhuong/
+<img width="96" height="96" src="https://img.icons8.com/fluency/96/microsoft-excel-2019.png" alt="microsoft-excel-2019"/> <img width="96" height="96" src="https://img.icons8.com/nolan/96/sql.png" alt="sql"/> <img width="96" height="96" src="https://img.icons8.com/color/96/power-bi-2021.png" alt="power-bi-2021"/>
+<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/>
+<img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-color-tal-revivo.png" alt="external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-color-tal-revivo"/> 
 # **My Project:**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&repo=SQL-Explore-Ecommerce-Dataset)](https://github.com/lekhuong0196/SQL-Explore-Ecommerce-Dataset)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&repo=SQL_Bicycle_Manufacturer)](https://github.com/lekhuong0196/SQL_Bicycle_Manufacturer)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&repo=Sales-analysis-and-Expansion-strategy-of-Global-Superstore)](https://github.com/lekhuong0196/Sales-analysis-and-Expansion-strategy-of-Global-Superstore)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&repo=Python_RFM_Analysis-Customer-segmentation)](https://github.com/lekhuong0196/Python_RFM_Analysis-Customer-segmentation)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&repo=Cohort-Analysis-How-to-Analyze-User-Retention)](https://github.com/lekhuong0196/Cohort-Analysis-How-to-Analyze-User-Retention)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&repo=ML-Predict-Churned-Users)](https://github.com/lekhuong0196/ML-Predict-Churned-Users)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&theme=radical&repo=SQL-Explore-Ecommerce-Dataset)](https://github.com/lekhuong0196/SQL-Explore-Ecommerce-Dataset)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&theme=radical&repo=Sales-analysis-and-Expansion-strategy-of-Global-Superstore)](https://github.com/lekhuong0196/Sales-analysis-and-Expansion-strategy-of-Global-Superstore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&theme=radical&repo=Python_RFM_Analysis-Customer-segmentation)](https://github.com/lekhuong0196/Python_RFM_Analysis-Customer-segmentation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&theme=radical&repo=Cohort-Analysis-How-to-Analyze-User-Retention)](https://github.com/lekhuong0196/Cohort-Analysis-How-to-Analyze-User-Retention)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lekhuong0196&theme=radical&repo=ML-Predict-Churned-Users)](https://github.com/lekhuong0196/ML-Predict-Churned-Users)
 
 
 # Goals:
-Continue to develop skills and knowledge in Data Analysis Data Science and Machine Learning
+- Continue to develop skills and knowledge in Data Analysis Data Science and Machine Learning
 
-Utilize my skills to solve critical business problems and drive business value
+- Utilize my skills to solve critical business problems and drive business value
 
-Become a leading expert in the field of Data Science
+- Become a leading expert in the field of Data Science
 
 # Thank you for taking the time to read my profile!
